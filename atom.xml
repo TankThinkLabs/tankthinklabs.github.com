@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://TankThinkLabs.github.com/atom.xml" rel="self"/>
-  <link href="http://TankThinkLabs.github.com/"/>
-  <updated>2012-12-30T15:13:49-05:00</updated>
-  <id>http://TankThinkLabs.github.com/</id>
+  <title><![CDATA[TankThink Labs, LLC]]></title>
+  <link href="http://tankthinklabs.com/atom.xml" rel="self"/>
+  <link href="http://tankthinklabs.com/"/>
+  <updated>2013-02-19T11:28:16-05:00</updated>
+  <id>http://tankthinklabs.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[TankThink Labs]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
